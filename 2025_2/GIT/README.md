@@ -20,7 +20,7 @@ git diff
 - o que tem de alteração na ramificação
 
 git merge
-merge de ramificação, mescla ramificações
+- merge de ramificação, mescla ramificações
 
 git branch
 - mostra a branch atual
