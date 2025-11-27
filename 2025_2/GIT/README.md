@@ -1,4 +1,4 @@
-# Meu-Projeto
+# Guia para o Git
 
 git init
 - iniciar novo projeto com git
